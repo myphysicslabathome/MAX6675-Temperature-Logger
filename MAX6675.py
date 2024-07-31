@@ -1,4 +1,4 @@
-''' Program for temperture measurement by MAX6675 and T-type thermocouple(SPI Communication)
+''' Program for temperature measurement by MAX6675 and K-type thermocouple(SPI Communication)
     on 23/04/2024 
 '''
 
@@ -6,7 +6,7 @@
 import eyes17.eyes
 p = eyes17.eyes.open()
 
-# Import python libreary 
+# Import python library 
 import time, math
 import numpy as np
 
