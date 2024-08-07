@@ -23,6 +23,9 @@ Download the "MAX6675.py" file and run to measure temperature.
 > ### NOTES :
 > - Don't forget to delete the existing data file "Max6675.dat", if you are running the "MAX6675.py" script multiple times.
 
+## Results:
+<img src="./MAX6675.png" alt="Results" width="500"  title="Results">
+
 ## Special thanks to:
 
 - Wholehearted thanks to the entire Inter-University Accelerator Centre (IUAC), New Delhi, India team especially Er. V.V.V. Satyanarayana, Mr. Abhijit Sarkar, and Dr. Ajith Kumar B. P. for developing the device and conducting the training program.
