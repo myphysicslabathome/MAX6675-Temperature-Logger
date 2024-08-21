@@ -1,14 +1,13 @@
 # MAX6675-Temperature-Logger
 ## Overview
-This project aims to measure temperature using MAX6675 and a K-type thermocouple as an external sensor add-on with ExpEYES. In this case we have used Serial Peripheral Interface (SPI) communication protocol between the thermocouple module MAX6675 and ExpEYES. 
+This project aims to measure temperature using MAX6675 and a K-type thermocouple as an external sensor add-on with ExpEYES. In this case, we have used Serial Peripheral Interface (SPI) communication protocol between the thermocouple module MAX6675 and ExpEYES. 
 Download the "MAX6675.py" file and run to measure temperature. 
 
 ## Required Apparatus :
 1. ExpEYES latest model (SEELAB 3.0, with SPI expansion bus)
 2. Thermocouple module (MAX6675)
-3. Temperature Sensor (PT1000)
-4. K-type thermocouple 
-5. Jumper wires (with alligator clips, optional)
+3. K-type thermocouple 
+4. Jumper wires (with alligator clips, optional)
 
 ## Procedure:
 ### Experimental Setup
