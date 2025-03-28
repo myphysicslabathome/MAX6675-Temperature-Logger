@@ -13,7 +13,7 @@ Download the "MAX6675.py" file and run to measure temperature.
 ### Experimental Setup
 1. **Connections**:
    - Connect K-type thermocouple with MAX6675 thermocouple module
-   - Connect ExpEYES (5V, GND, SCK, CS1, SDO) to MAX6675 (VCC, GND, SCK, CS, SO).
+   - Connect ExpEYES (5V, GND, SCK, CS1, SDI) to MAX6675 (VCC, GND, SCK, CS, SO).
    - Place the K-type thermocouple probe at required position.
 2. **Data Acquisition**:
    - Connect ExpEYES to PC via USB.
